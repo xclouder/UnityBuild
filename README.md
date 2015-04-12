@@ -1,7 +1,7 @@
 UnityBuild
 ========
 
-This is an extension of Sublime Text 2 to support Unity 3d builds.
+This is an extension of Sublime Text 2/3 to support Unity 3d builds.
 
 Use Unity as build system and enjoy !
 
